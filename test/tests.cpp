@@ -1,7 +1,7 @@
 // Copyright 2024 Pozdnyakov Vasya
 #include <gtest/gtest.h>
 #include <cstdint>
-#include "circle.h"
+#include "tasks.h"
 
 const double PI = 4 * std::atan(1.0);
 
